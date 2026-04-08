@@ -31,21 +31,21 @@ This repository contains the comprehensive physical and digital action report, a
 Below are the raw PoC videos and exploit notes for the challenges compromised during the engagement:
 
 ### 🧩 PWN LOGS
-- 🎥 **Berlin's Flashback** - [PoC Video](./writeup%20vdo/Berlin%27s%20Flashback.mp4)
-- 🎥 **Berlin's Forged Will** - [PoC Video](./writeup%20vdo/berlins%20forged%20will.mp4) | [Notes](./writeup%20vdo/berlins%20forged%20will.txt)
-- 🎥 **Brr Brr** - [PoC Video](./writeup%20vdo/brr%20brr.mp4)
-- 🎥 **Chao Chao** - [PoC Video](./writeup%20vdo/chao%20chao.mp4)
-- 🎥 **Hidden in the Open** - [PoC Video](./writeup%20vdo/hidden%20in%20the%20open.mp4)
-- 🎥 **Pending Intent** - [PoC Video](./writeup%20vdo/pending%20intent.mp4) | [Notes](./writeup%20vdo/pendingintent.txt)
-- 🎥 **Scan Me If You Can** - [PoC Video](./writeup%20vdo/scan%20me%20if%20you%20can%20.mp4) | [Notes](./writeup%20vdo/scan%20me%20if%20you%20can.txt)
-- 🎥 **Silent Hallways** - [PoC Video](./writeup%20vdo/Silent%20Hallways.mp4)
-- 📝 **Sudoku** - [Notes](./writeup%20vdo/sudoku.txt)
-- 🎥 **The Pulse of Dead** - [PoC Video](./writeup%20vdo/THE%20PULSE%20OF%20DEAD.mp4)
-- 🎥 **The Oppen Hidden** - [PoC Video](./writeup%20vdo/the%20oppen%20hidden.mp4)
-- 🎥 **Vault 1** - [PoC Video](./writeup%20vdo/vault1.mp4)
-- 🎥 **Vault 2** - [PoC Video](./writeup%20vdo/vault2.mp4)
-- 🎥 **What Can We Do** - [PoC Video](./writeup%20vdo/what%20can%20we%20do.mp4)
-- 🎥 **What Can We Do Part 2** - [PoC Video](./writeup%20vdo/what%20can%20we%20dooo%20part%202.mp4)
+- 🎥 **Berlin's Flashback** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Berlin's Forged Will** - [PoC Video (YouTube Link Pending)](#) | [Notes](./berlins%20forged%20will.txt)
+- 🎥 **Brr Brr** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Chao Chao** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Hidden in the Open** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Pending Intent** - [PoC Video (YouTube Link Pending)](#) | [Notes](./pendingintent.txt)
+- 🎥 **Scan Me If You Can** - [PoC Video (YouTube Link Pending)](#) | [Notes](./scan%20me%20if%20you%20can.txt)
+- 🎥 **Silent Hallways** - [PoC Video (YouTube Link Pending)](#)
+- 📝 **Sudoku** - [Notes](./sudoku.txt)
+- 🎥 **The Pulse of Dead** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **The Oppen Hidden** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Vault 1** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Vault 2** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **What Can We Do** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **What Can We Do Part 2** - [PoC Video (YouTube Link Pending)](#)
 
 ---
 > *“Security is not an objective. It's an ongoing process.”*

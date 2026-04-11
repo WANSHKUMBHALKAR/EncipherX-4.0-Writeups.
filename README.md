@@ -31,7 +31,7 @@ This repository contains the comprehensive physical and digital action report, a
 Below are the raw PoC videos and exploit notes for the challenges compromised during the engagement:
 
 ### 🧩 PWN LOGS
-- 🎥 **Berlin's Flashback** - [PoC Video (YouTube Link Pending)](#)
+- 🎥 **Berlin's Flashback** - [PoC Video (https://www.youtube.com/watch?v=xGBMcK5rmcU)](#)
 - 🎥 **Berlin's Forged Will** - [PoC Video (YouTube Link Pending)](#) | [Notes](./berlins%20forged%20will.txt)
 - 🎥 **Brr Brr** - [PoC Video (YouTube Link Pending)](#)
 - 🎥 **Chao Chao** - [PoC Video (YouTube Link Pending)](#)
